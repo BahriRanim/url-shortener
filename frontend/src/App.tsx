@@ -18,7 +18,7 @@ const App: React.FC = () => {
     };
 
     return (
-        <div className="App" style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
+        <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
             <h1>URL Shortener</h1>
             <form onSubmit={handleSubmit}>
                 <label htmlFor="longUrl" style={{ display: 'block', marginBottom: '10px' }}>
