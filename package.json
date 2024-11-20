@@ -5,6 +5,8 @@
     "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\""
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.15.0",
+    "@typescript-eslint/parser": "^8.15.0",
     "concurrently": "^8.2.0"
   },
   "dependencies": {
