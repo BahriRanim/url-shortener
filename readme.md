@@ -1,18 +1,11 @@
-Express, React/Redux, MySQL Boilerplate
+URL Shortener 
 
-## Get Started
-
-### 1. Prerequisites
-
-
-
-### 2. Installation
+● Backend: Express, Node.js, TypeScript
+● Frontend: React.js
+● Architecture: Ports and Adapters
+● Programming Paradigm: Object-Oriented Programming (OOP)
 
 
-
-### 3. Usage
-
-URL : http://localhost:3000/
 
 
 
